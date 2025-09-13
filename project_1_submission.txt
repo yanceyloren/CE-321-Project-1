@@ -1,5 +1,5 @@
 PartialCredit::
-Q1::
+Q1::T
 Q2::
 Q3::
 Q4::
